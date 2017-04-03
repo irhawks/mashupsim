@@ -1,0 +1,7 @@
+numpy
+simpy
+pandas
+bokeh
+networkx
+jsonpickle
+matplotlib
